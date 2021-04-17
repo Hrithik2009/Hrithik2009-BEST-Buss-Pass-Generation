@@ -1,0 +1,37 @@
+.mainImage {
+    width: 100%;
+    height: auto;
+}
+
+.btn-outline-success {
+    color: #000000;
+    background-color: #ff0000;
+    background-image: none;
+    border-color: #ff0000;
+}
+.navbar {
+    border-bottom: 1px solid black;
+}
+
+.navbar-nav {
+    margin-right: 200px;
+}
+
+.nav-item {
+    padding: 0px 15px;
+    float: left;
+    font: bold;
+}
+
+.nav-item:hover {
+    color:black;
+    border: red;
+    border-radius: 10px ;
+    background-color: rgb(255, 58, 58);
+}
+
+
+
+.navbar-brand {
+    font-weight: 700;
+}
